@@ -1,6 +1,6 @@
 <!-- Banner Image (optional) -->
 <p align="center">
-  <img src="<img width="1169" height="780" alt="image" src="https://github.com/user-attachments/assets/367aeaf7-9abd-4d5e-93aa-6beacc65f17f" />" alt="Data Engineer" />
+  <img src="<https://images.unsplash.com/photo-1555529669-7e9f2893dbd2?auto=format&fit=crop&w=1200&q=80>" alt="Data Engineer" />
 </p>
 
 ## Hey Hi 👋
