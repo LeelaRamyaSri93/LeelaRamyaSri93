@@ -7,33 +7,19 @@
 
 # 🌻 Karuturi Leela Ramya Sri
 
-I'm Ramya, an AI & Data Science undergraduate who believes in building with clarity, documenting with honesty, and growing with intention. Welcome to my GitHub profile—everything here reflects what I’ve genuinely practiced and thoughtfully shared.
+I'm Ramya, an AI & Data Science undergraduate at GMR Institute of Technology.  
+I focus on mastering core skills in **Linux** and **cloud technologies**—documenting only what I genuinely practice.
 
----
-
-### 👩‍💻 AI & Data Science Undergraduate | Intentional Learner | Growth Documenter
-
-Currently pursuing B.Tech at GMR Institute of Technology, I’m focused on mastering foundational skills in Linux, Python, and cloud technologies. I document my journey publicly to stay accountable and connect with fellow learners.
-
----
+This GitHub reflects my commitment to:
+- 🎯 Intentional learning  
+- 📝 Honest documentation  
+- 🌱 Meaningful growth
 
 ## 🌱 What I'm Building Currently
 
 - 🛠️ **[Build-With-Clarity](https://github.com/LeelaRamyaSri93/Build-With-Clarity)**: My public learning portfolio—weekly reflections, curated resources, and honest logs of what I’ve truly explored.
 
 ---
-
-## 🧠 Learning Philosophy
-
-> “Clarity is the foundation. Authenticity is the path. Growth is the goal.”
-
-- 📚 Learn deeply, not quickly.  
-- ✍️ Document only what’s practiced.  
-- 🔁 Reflect weekly (Sunday = documentary day).  
-- 🧩 Build systems that support long-term growth.
-
----
-
 ## 🧰 Technical Skills
 
 ### 💻 Programming Languages
@@ -53,7 +39,7 @@ Currently pursuing B.Tech at GMR Institute of Technology, I’m focused on maste
 - Model Evaluation
 
 ### 🗃️ Database & Querying
-- MySQL, PostgresSQL
+- MySQL, PostgreSQL
 
 ### 📊 Data Tools
 - Tableau, Excel
@@ -65,11 +51,6 @@ Currently pursuing B.Tech at GMR Institute of Technology, I’m focused on maste
 - Basic knowledge of AWS
 
 ---
-
-## 🪞 Reflection Snippets
-
-> “I realized today that mastery isn’t about doing more—it’s about doing with intention.”
-
 ## 📊 GitHub Stats
 
 <p align="center">
