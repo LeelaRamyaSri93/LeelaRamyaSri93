@@ -1,6 +1,7 @@
 <!-- Banner Image (optional) -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555529669-7e9f2893dbd2?auto=format&fit=crop&w=1200&q=80" alt="Banner" width="1200">
+  <img src="https://unsplash.com/photos/black-flat-screen-computer-monitor-on-green-desk-X89VSmdDKE0">
+  https://unsplash.com/photos/woman-in-black-top-using-surface-laptop-glRqyWJgUeY
 
 </p>
 
