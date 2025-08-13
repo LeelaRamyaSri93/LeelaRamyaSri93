@@ -1,6 +1,7 @@
 <!-- Banner Image (optional) -->
 <p align="center">
-  <img src="<https://images.unsplash.com/photo-1555529669-7e9f2893dbd2?auto=format&fit=crop&w=1200&q=80>" alt="Data Engineer" />
+  <img src="https://images.unsplash.com/photo-1555529669-7e9f2893dbd2?auto=format&fit=crop&w=1200&q=80" alt="Banner" width="1200">
+
 </p>
 
 ## Hey Hi 👋
