@@ -1,9 +1,9 @@
 <!-- Banner Image (optional) -->
 <p align="center">
-  <img src="https://your-custom-banner-url.com/banner.png" alt="Build With Clarity Banner" />
+  <img src="https://unsplash.com/photos/woman-in-black-top-using-surface-laptop-glRqyWJgUeY" alt="Data Engineer" />
 </p>
 
-## Hi there 👋
+## Hey Hi 👋
 
 # 🌻 Karuturi Leela Ramya Sri
 
