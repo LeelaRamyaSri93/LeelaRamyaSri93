@@ -1,10 +1,3 @@
-<!-- Banner Image (optional) -->
-<p align="center">
-  <img src="https://unsplash.com/photos/black-flat-screen-computer-monitor-on-green-desk-X89VSmdDKE0">
-  https://unsplash.com/photos/woman-in-black-top-using-surface-laptop-glRqyWJgUeY
-
-</p>
-
 ## Hey Hi 👋
 
 # 🌻 Karuturi Leela Ramya Sri
