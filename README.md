@@ -3,16 +3,16 @@
 # 🌻 Karuturi Leela Ramya Sri
 
 I'm Ramya, an AI & Data Science undergraduate at GMR Institute of Technology.  
-I focus on mastering core skills in **Linux** and **cloud technologies**—documenting only what I genuinely practice.
+I focus on mastering core skills in **Linux** and **cloud technologies** documenting what I practice.
 
 This GitHub reflects my commitment to:
 - 🎯 Intentional learning  
-- 📝 Honest documentation  
+- 📝 Documentation  
 - 🌱 Meaningful growth
 
 ## 🌱 What I'm Building Currently
 
-- 🛠️ **[Build-With-Clarity](https://github.com/LeelaRamyaSri93/Build-With-Clarity)**: My public learning portfolio—weekly reflections, curated resources, and honest logs of what I’ve truly explored.
+- 🛠️ **[Build-With-Clarity](https://github.com/LeelaRamyaSri93/Build-With-Clarity)**: My public learning portfolio weekly reflections, curated resources, and honest logs of what I’ve truly explored.
 
 ---
 ## 🧰 Technical Skills
