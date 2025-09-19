@@ -75,9 +75,3 @@ If you're also documenting your growth let's connect! I love exchanging ideas an
 - ✍️ [Medium](https://ramyakaruturi.medium.com/)
 - 🧠 [Dev Community](https://dev.to/ramyakaruturi)
 - 🧭 [Notion](https://www.notion.so/Scaling-Myself-2404eceb2912805c9beccee5983fb984)
-
----
-
-<p align="center">
-  <em>“Build with clarity. Share with honesty. Grow with intention.”</em>
-</p>
