@@ -12,7 +12,7 @@ This GitHub reflects my commitment to:
 
 ## 🌱 What I'm Building Currently
 
-- 🛠️ **[Build-With-Clarity](https://github.com/LeelaRamyaSri93/Build-With-Clarity)**: My public learning portfolio weekly reflections, curated resources, and logs of what I’ve truly explored.
+- 🛠️ **[Build-With-Clarity](https://github.com/LeelaRamyaSri93/Build-With-Clarity)**: My public learning portfolio weekly reflections, curated resources, and logs of what I’ve explored.
 
 ---
 ## 🧰 Technical Skills
